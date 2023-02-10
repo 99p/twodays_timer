@@ -11,6 +11,7 @@
 		54D2F4242995E6E10047AEED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D2F4232995E6E10047AEED /* ContentView.swift */; };
 		54D2F4262995E6E30047AEED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54D2F4252995E6E30047AEED /* Assets.xcassets */; };
 		54D2F4292995E6E30047AEED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54D2F4282995E6E30047AEED /* Preview Assets.xcassets */; };
+		54D2F4302995E70A0047AEED /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D2F42F2995E70A0047AEED /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		54D2F4232995E6E10047AEED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		54D2F4252995E6E30047AEED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54D2F4282995E6E30047AEED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		54D2F42F2995E70A0047AEED /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				54D2F4212995E6E10047AEED /* towdays_TimerApp.swift */,
 				54D2F4232995E6E10047AEED /* ContentView.swift */,
+				54D2F42F2995E70A0047AEED /* SettingView.swift */,
 				54D2F4252995E6E30047AEED /* Assets.xcassets */,
 				54D2F4272995E6E30047AEED /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54D2F4302995E70A0047AEED /* SettingView.swift in Sources */,
 				54D2F4242995E6E10047AEED /* ContentView.swift in Sources */,
 				54D2F4222995E6E10047AEED /* towdays_TimerApp.swift in Sources */,
 			);
